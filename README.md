@@ -1,2 +1,2 @@
 # zhaodear
-a app focus girls shopping
+a app focus girls shopping ,develop by cc team
